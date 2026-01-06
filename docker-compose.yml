@@ -1,6 +1,6 @@
 services:
-  whanjeab:
-    container_name: whanjeab
+  bigsight:
+    container_name: binsight
     build: .
     restart: always
     env_file:
