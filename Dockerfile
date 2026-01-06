@@ -8,4 +8,4 @@ RUN npm install
 
 COPY . .
 
-EXPOSE 3014
+EXPOSE 3001
